@@ -3,6 +3,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdhksnvns&show_icons=true&count_private=true&theme=cobalt&hide=stars,issues" alt="rdhksnvns" /></p>
 
 [![Rdhksnvns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rdhksnvns)](https://github.com/rdhksnvns)
+
+<p align="center">&nbsp; [![Rdhksnvns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rdhksnvns)](https://github.com/rdhksnvns)</p>
 <!--
 **rdhksnvns/rdhksnvns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
