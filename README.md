@@ -4,8 +4,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdhksnvns&show_icons=true&count_private=true&hide=stars,issues" alt="rdhksnvns" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rdhksnvns&show_icons=true&count_private=true" alt="rdhksnvns" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdhksnvns&" alt="rdhksnvns" /></p>
 
 <!--
