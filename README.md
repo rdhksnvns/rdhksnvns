@@ -2,6 +2,12 @@
 
 <br>
 
+<p align ="center">😄 Pronouns: he/him</p>
+<p align ="center">🌱 I’m currently learning ASP.NET</p>
+<p align ="center">📫 Reach me at <a href="mailto:vansh@rkv.one">vansh@rkv.one</a></p>
+
+<br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdhksnvns&show_icons=true&count_private=true&hide=stars,issues" alt="rdhksnvns" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rdhksnvns&" alt="rdhksnvns" /></p>
